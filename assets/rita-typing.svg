@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Rita.</title>
+  <desc id="desc">An animated introduction for Rita's GitHub profile.</desc>
+  <style>
+    .bg { fill: #0d1117; }
+    .hello { fill: #8b949e; font: 600 20px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .name { fill: #f0f6fc; font: 700 36px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .accent { fill: #ff7ab2; }
+    .cursor { fill: #7ee787; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .cursor { animation: none; }
+    }
+  </style>
+  <rect class="bg" x="0" y="0" width="720" height="120" rx="18" />
+  <circle cx="28" cy="24" r="6" fill="#ff5f56" />
+  <circle cx="48" cy="24" r="6" fill="#ffbd2e" />
+  <circle cx="68" cy="24" r="6" fill="#27c93f" />
+  <text class="hello" x="28" y="62">~/rita/profile <tspan class="accent">$</tspan></text>
+  <text class="name" x="28" y="101">Hi, I'm Rita</text>
+  <rect class="cursor" x="294" y="74" width="4" height="32" rx="1" />
+</svg>
