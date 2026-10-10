@@ -35,6 +35,7 @@ Hi, I'm **Rita** — a Master of Information Technology student specialising in 
   <img src="https://img.shields.io/badge/TensorFlow-182C35?style=for-the-badge&logo=tensorflow&logoColor=FF9EBB" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-182C35?style=for-the-badge&logo=scikitlearn&logoColor=FF9EBB" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-182C35?style=for-the-badge&logo=pandas&logoColor=7EE787" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-182C35?style=for-the-badge&logo=jupyter&logoColor=FF9EBB" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Spring_Boot-182C35?style=for-the-badge&logo=springboot&logoColor=7EE787" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/FastAPI-182C35?style=for-the-badge&logo=fastapi&logoColor=7EE787" alt="FastAPI" />
   <img src="https://img.shields.io/badge/MySQL-182C35?style=for-the-badge&logo=mysql&logoColor=7EE787" alt="MySQL" />
